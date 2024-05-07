@@ -1,0 +1,31 @@
+https://www.books.weniv.co.kr/
+
+인터넷 == 인프라
+웹 == 인프라 위에 올라가는 기술
+
+웹 기본
+이름(URL) : www.google.com
+주소(ip) : 172.217.24.228
+문(PORT, 포트) : https://naver.com:443
+
+Ctrl + Shift + i
+
+
+프론트엔드
+HTML - 골격
+CSS - 피부
+JavaScript - 근육
+
+백엔드
+Python - 두뇌
+
+메모장 - 텍스트 에디터, 이걸로 코딩하는 사람 없음
+Atom - 텍스트 에디터, 옛날꺼
+VSC - 가장 많이 사용
+
+
+https://github.com/
+GItHub - 레벨업 하기
+
+	new 버튼 클릭, repo name 지정, add a readme file : 원격 폴더 생성
+	add file > Upload files : 원격 폴더에 파일 올리기
